@@ -13,6 +13,7 @@ Each chapter contains a directory with solutions to the problems presented in th
    - [Triplet](chapter1_two_pointers/2_triplet_sum/triplet_sum.py)
    - [Is Palindrome Valid](chapter1_two_pointers/3_is_palindrome_valid/is_palindrome_valid.py)
    - [Largest Container](chapter1_two_pointers/4_largest_container/largest_container.py)
+   - [Shift Zeros](chapter1_two_pointers/5_shift_zeros_to_end/shift_zeros_to_end.py)
 
 ## How to Use
 
