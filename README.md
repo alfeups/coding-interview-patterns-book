@@ -15,6 +15,9 @@ Each chapter contains a directory with solutions to the problems presented in th
    - [Largest Container](chapter1_two_pointers/4_largest_container/largest_container.py)
    - [Shift Zeros](chapter1_two_pointers/5_shift_zeros_to_end/shift_zeros_to_end.py)
 
+2. Chapter 2: Hash Maps and Sets
+   - [Pair sum with unsorted array](chapter2_hash_maps_and_sets/1_pair_sum_unsorted/pair_sum_unsorted.py)
+
 ## How to Use
 
 Navigate to the respective chapter directory to find the solutions to the problems. Each solution is implemented in Python.
